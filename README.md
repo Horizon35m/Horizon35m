@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Horizon35m
+- 👀 I’m interested in FiveM Coding
+- 🌱 I’m currently learning FiveM LUA, HTML, CSS, and META files.
